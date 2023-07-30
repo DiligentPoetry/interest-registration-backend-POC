@@ -11,5 +11,3 @@ JSON format for the POST request:
     "lastname" : "input2",
     "email" : "input3"
 }
-
-Will migrate this to typescript because of performance and it's ability to detect errors during compilation.
