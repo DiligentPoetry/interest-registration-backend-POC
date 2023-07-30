@@ -1,5 +1,5 @@
 # interest-registration-backend-POC
-A simple API that takes in usernames and emails.
+A simple API that takes in usernames and emails and saves to a CF KV database, can be easily integrated with other databases like postgresql.
 
 Accepted request types : POST
 Auto verification of duplicate signups with kv lookup
